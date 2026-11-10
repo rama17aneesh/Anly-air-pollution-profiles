@@ -1,0 +1,61 @@
+# ---------------------------------------------
+# Data: not redistributed (licence unclear).
+# Download the CSV from Kaggle into data/ (see README).
+# ---------------------------------------------
+data/*
+!data/.gitkeep
+*.csv
+*.zip
+
+# Kaggle API credentials (never commit)
+kaggle.json
+.kaggle/
+
+# ---------------------------------------------
+# Python
+# ---------------------------------------------
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.conda/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# ---------------------------------------------
+# Jupyter
+# ---------------------------------------------
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+.jupyter/
+
+# ---------------------------------------------
+# Editors and IDEs
+# ---------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---------------------------------------------
+# Operating system files
+# ---------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------------------------------------------
+# Office temporary files
+# ---------------------------------------------
+~$*
