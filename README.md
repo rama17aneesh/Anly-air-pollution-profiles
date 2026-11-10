@@ -2,7 +2,7 @@
 
 **Does one AQI category hide different pollution mixes across cities?**
 
-ANLY 530 Machine Learning, Harrisburg University. KA1 conference-paper project (individual). Author: Rama.
+ANLY 530 Machine Learning, Harrisburg University. KA1 conference-paper project (individual). Author: Rama Aneesh Tumuluri.
 
 ## Research questions
 
